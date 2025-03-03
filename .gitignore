@@ -170,4 +170,5 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 credentials.txt
+local_s3/
 notebooks/
